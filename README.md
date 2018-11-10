@@ -38,7 +38,7 @@
     cout <<max;
 
     return 0;
-}```
+}`
 
 
 `*Berikut adalah hasilnya`
