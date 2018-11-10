@@ -1,7 +1,9 @@
 # Praktikum5
 
+
 *Latihan1
-`*Susunan algoritma untuk menginput bilangan 
+
+*Susunan algoritma untuk menginput bilangan 
 
  sebanyak-banyaknya sampai kondisi apabila yang 
 
@@ -9,12 +11,14 @@
 
  Kemudian tampilkan nilai paling besar dari bilangan 
 
- yang di inputkan.`
+ yang di inputkan.
 
-`*Berikut adalah kodenya`
+*Berikut adalah kodenya
 
- int main()
+``` int main()
+
 {
+
     int a,max=0;
 
     do{
@@ -34,7 +38,7 @@
     cout <<max;
 
     return 0;
-}
+}```
 
 *Berikut adalah hasilnya
  ![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Hasil1.png)
