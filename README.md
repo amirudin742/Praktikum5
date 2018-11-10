@@ -14,9 +14,7 @@
 `*Berikut adalah kodenya`
 
  `int main()
-
 {
-
     int a,max=0;
 
     do{
@@ -36,7 +34,6 @@
     cout <<max;
 
     return 0;
-
 }`
 
 *Berikut adalah hasilnya
