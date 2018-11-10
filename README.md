@@ -13,7 +13,7 @@
 
 `*Berikut adalah kodenya`
 
- `int main()
+ int main()
 {
     int a,max=0;
 
@@ -34,7 +34,7 @@
     cout <<max;
 
     return 0;
-}`
+}
 
 *Berikut adalah hasilnya
  ![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Hasil1.png)
