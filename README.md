@@ -40,6 +40,7 @@
     return 0;
 }```
 
-*Berikut adalah hasilnya
+
+`*Berikut adalah hasilnya`
  ![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Hasil1.png)
 
