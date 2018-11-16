@@ -81,9 +81,10 @@ a.Alur Algoritmanya
 
 
 
+
+
+
 b.Berikut adalah kodenya
-
-
 
 ```int main()
 {
@@ -109,6 +110,8 @@ b.Berikut adalah kodenya
         cout<< "SALAH";
         }
 }```
+
+
 
 
 
