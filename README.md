@@ -15,7 +15,7 @@
 
 *Berikut adalah kodenya
 
-``` int main()
+`int main()
 
 {
 
@@ -39,6 +39,7 @@
 
     return 0;
 }`
+
 
 
 #Berikut adalah hasilnya
