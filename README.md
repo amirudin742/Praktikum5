@@ -54,6 +54,7 @@ int main()
 #Menentukan Penjumlahan Bilangan Yang Benar dan Salah
 
 #a.Alur Algoritmanya
+	
 	-Mendeklarasikan int a,b, dan c
 
 	-Mendeklarasikan variabel a,b, dan c sebagai nilai input
@@ -65,21 +66,32 @@ int main()
 
 c++
 	if( (a+b==c) || (a+c==b) )
+
 		{
+
     		cout<<"BENAR";
+
 		}
+
 		else if((b+c==a))
+
 		{
+
     		cout<<"BENAR";
+
 		}
+
 		else
+
     	{
+
     	cout<< "SALAH";
     
 
 #b.Berikut adalah kodenya
 
 int main()
+
 {
     int a,b,c;
 
