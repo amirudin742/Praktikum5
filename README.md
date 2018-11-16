@@ -85,7 +85,7 @@ b.Berikut adalah kodenya
 
 
 
-int main()
+```int main()
 {
     int a,b,c;
 
@@ -108,7 +108,7 @@ int main()
         {
         cout<< "SALAH";
         }
-}
+}```
 
 
 
