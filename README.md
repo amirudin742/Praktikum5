@@ -54,7 +54,7 @@
 
 #Menentukan Penjumlahan Bilangan Yang Benar dan Salah
 
-a.Alur Algoritmanya
+*a.Alur Algoritmanya
 	-Mendeklarasikan int a,b, dan c
 
 	-Mendeklarasikan variabel a,b, dan c sebagai nilai input
@@ -79,7 +79,7 @@ a.Alur Algoritmanya
     	cout<< "SALAH";
     ```
 
-```b.Berikut adalah kodenya```
+*b.Berikut adalah kodenya
 
 ```int main()
 {
@@ -107,15 +107,12 @@ a.Alur Algoritmanya
 }```
 
 
-
-
-
-c.Berikut adalah flowchartnya
+*c.Berikut adalah flowchartnya
 
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Flowchart2.png)
 
 
-d.Berikut adalah hasilnya
+*d.Berikut adalah hasilnya
 
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Hasil2/Hasil1.png)
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Hasil2/Hasil2.png)
