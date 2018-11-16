@@ -15,7 +15,7 @@
 
 *Berikut adalah kodenya
 
-```int main()
+``int main()
 
 {
 
@@ -38,7 +38,7 @@
     cout <<max;
 
     return 0;
-}```
+}``
 
 
 
