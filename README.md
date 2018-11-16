@@ -16,7 +16,6 @@
 *Berikut adalah kodenya
 
 ``int main()
-
 {
 
     int a,max=0;
