@@ -53,11 +53,17 @@
 #Latihan2
 
 #Menentukan Penjumlahan Bilangan Yang Benar dan Salah
+
 a.Alur Algoritmanya
 	-Mendeklarasikan int a,b, dan c
+
 	-Mendeklarasikan variabel a,b, dan c sebagai nilai input
+
 	-Memasukan nilai inputan a,b,c
+
 	-Membandingkan penjumlahan nilai a + b =c dan a+c=b dan c+b=a
+
+
 
 ```c++
 	if( (a+b==c) || (a+c==b) )
@@ -73,7 +79,11 @@ a.Alur Algoritmanya
     	cout<< "SALAH";
     ```
 
+
+
 b.Berikut adalah kodenya
+
+
 
 int main()
 {
@@ -100,9 +110,12 @@ int main()
         }
 }
 
+
+
 c.Berikut adalah flowchartnya
 
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Flowchart2.png)
+
 
 d.Berikut adalah hasilnya
 
