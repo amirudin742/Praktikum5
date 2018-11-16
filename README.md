@@ -79,12 +79,7 @@ a.Alur Algoritmanya
     	cout<< "SALAH";
     ```
 
-
-
-
-
-
-b.Berikut adalah kodenya
+```b.Berikut adalah kodenya```
 
 ```int main()
 {
