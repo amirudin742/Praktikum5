@@ -13,9 +13,9 @@
 
  yang di inputkan.
 
-*Berikut adalah kodenya
+#Berikut adalah kodenya
 
-``int main()
+int main()
 {
 
     int a,max=0;
@@ -37,8 +37,7 @@
     cout <<max;
 
     return 0;
-}``
-
+}
 
 
 #Berikut adalah hasilnya
@@ -54,7 +53,7 @@
 
 #Menentukan Penjumlahan Bilangan Yang Benar dan Salah
 
-# a.Alur Algoritmanya
+#a.Alur Algoritmanya
 	-Mendeklarasikan int a,b, dan c
 
 	-Mendeklarasikan variabel a,b, dan c sebagai nilai input
@@ -64,8 +63,7 @@
 	-Membandingkan penjumlahan nilai a + b =c dan a+c=b dan c+b=a
 
 
-
-```c++
+c++
 	if( (a+b==c) || (a+c==b) )
 		{
     		cout<<"BENAR";
@@ -77,11 +75,11 @@
 		else
     	{
     	cout<< "SALAH";
-    ```
+    
 
-# b.Berikut adalah kodenya
+#b.Berikut adalah kodenya
 
-```int main()
+int main()
 {
     int a,b,c;
 
@@ -104,15 +102,15 @@
         {
         cout<< "SALAH";
         }
-}```
+}
 
 
-# c.Berikut adalah flowchartnya
+#c.Berikut adalah flowchartnya
 
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Flowchart2.png)
 
 
-# d.Berikut adalah hasilnya
+#d.Berikut adalah hasilnya
 
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Hasil2/Hasil1.png)
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Hasil2/Hasil2.png)
