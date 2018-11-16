@@ -45,3 +45,6 @@
 
  ![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Hasil1.png)
 
+#Berikut adalah flowchartnya
+
+![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Flowchart.png)
