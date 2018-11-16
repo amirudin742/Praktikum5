@@ -65,7 +65,8 @@ int main()
 
 
 c++
-	if( (a+b==c) || (a+c==b) )
+	
+		if( (a+b==c) || (a+c==b) )
 
 		{
 
