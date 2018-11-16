@@ -1,9 +1,9 @@
 # Praktikum5
 
 
-*Latihan1
+#Latihan1
 
-*Susunan algoritma untuk menginput bilangan 
+#Susunan algoritma untuk menginput bilangan 
 
  sebanyak-banyaknya sampai kondisi apabila yang 
 
@@ -41,6 +41,7 @@
 }`
 
 
-`*Berikut adalah hasilnya`
+#Berikut adalah hasilnya
+
  ![img](https://raw.githubusercontent.com/amirudin742/Praktikum5/master/Hasil1.png)
 
